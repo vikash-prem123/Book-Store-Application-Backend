@@ -1,8 +1,8 @@
-# Book Center Application - Backend
+# SyncStudy Application - Backend
 
-This repository contains the backend implementation of the Book Center Application, developed using Spring Boot.
+This repository contains the backend implementation of the SyncStudy Application, developed using Spring Boot.
 
-## Frontend of Book Center - [Click here](https://github.com/vikashSprem/Book-Store-Application-Frontend.git)
+## Frontend of SyncStudy - [Click here](https://github.com/vikashSprem/SyncStudy.git)
 
 ## Table of Contents
 
@@ -29,7 +29,6 @@ This repository contains the backend implementation of the Book Center Applicati
 
 ![CartDetails](https://github.com/vikashSprem/Book-Store-Application-Backend/assets/106796672/b41f6ae7-c69f-4954-9bea-cb6c0d3b5927)
 
-
 ## Introduction
 
 Welcome to the backend of the Book Store Application! This project serves as the backend API for managing a bookstore's inventory, handling user authentication, and managing orders.
@@ -44,10 +43,12 @@ Welcome to the backend of the Book Store Application! This project serves as the
 ## Technologies
 
 - **Java:**
+
   - Spring Boot: Powerful framework for building Java-based APIs.
 
 - **Database:**
-  -  MySQL
+
+  - MySQL
 
 - **Authentication:**
   - Spring Security
@@ -56,5 +57,6 @@ Welcome to the backend of the Book Store Application! This project serves as the
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/book-store-backend.git
-   cd BookStore-Backend
+   git clone https://github.com/your-username/SyncStudy-Server.git
+   cd SyncStudy-Server
+   ```
